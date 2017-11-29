@@ -1,0 +1,1 @@
+INSERT INTO clinicusers(user_id, username, password, security_question, security_answer, is_reset_password_on_login, enabled, employee_id, is_system_user) VALUES(101, 'clinical_admin','admin','Fav Hero','SSR',1,1,1,1);
